@@ -13,3 +13,4 @@
 4.2 Немецкий
 4.3 Японский
 4.4 Русский
+   ![photo_2022-06-08_03-08-04](https://github.com/OverKefir/maine-ich/assets/137103847/68fda481-c6ce-44e5-83f2-4e5e761c660e)
